@@ -1,0 +1,13 @@
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\bin\Debug\KursovoyProjectPMP.exe.config
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\bin\Debug\KursovoyProjectPMP.exe
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\bin\Debug\KursovoyProjectPMP.pdb
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.csprojAssemblyReference.cache
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.Form1.resources
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.Properties.Resources.resources
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.csproj.GenerateResource.cache
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.csproj.CoreCompileInputs.cache
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.exe
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.pdb
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\bin\Debug\RocketLib.dll
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\bin\Debug\RocketLib.pdb
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\KursovoyProjectPMP\obj\Debug\KursovoyProjectPMP.csproj.CopyComplete

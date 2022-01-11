@@ -1,0 +1,6 @@
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\RocketLib\bin\Debug\RocketLib.dll
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\RocketLib\bin\Debug\RocketLib.pdb
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\RocketLib\obj\Debug\RocketLib.csprojAssemblyReference.cache
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\RocketLib\obj\Debug\RocketLib.csproj.CoreCompileInputs.cache
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\RocketLib\obj\Debug\RocketLib.dll
+C:\Users\Overgoodl\source\repos\KursovoyProjectPMP\RocketLib\obj\Debug\RocketLib.pdb
